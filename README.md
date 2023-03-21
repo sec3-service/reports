@@ -4,11 +4,14 @@
 ## Audit Reports
 
 
-Here is a list of audits we have conducted. 
+
+Here is a list of audits sec3 security service team ([website](https://www.sec3.dev/) | [twitter](https://twitter.com/sec3dev)) have conducted. 
 
 Once our clients have decided to publish the reports, we make them available here.
 
-<br/>
+
+
+[![image](https://user-images.githubusercontent.com/95889709/226533563-aa2d97be-bd83-4ede-8925-ead4aefbdf83.png)](https://www.sec3.dev/)
 
 
 
