@@ -61,9 +61,9 @@ Once our clients have decided to publish the reports, we make them available her
 ## Bug Reports and Bounty Programs
 
 
-| Project      |   Date   | Chain  | Bounty | Awarded |
-| :----------- | :------: | :----- | :----: | :-----: |
-| FireDancer   | Feb 2023 | Solana |        |         |
-| Jet Protocol | Oct 2021 | Solana |  Yes   |   Yes   |
-| TON compiler | Mar 2023 | TON    |  Yes   |   Yes   |
+| Project           |   Date   | Platform | Bounty Program | Bounty Awarded |
+| :---------------- | :------: | :------- | :------------: | :------------: |
+| FireDancer        | Feb 2023 | Solana   |                |                |
+| Jet Protocol      | Oct 2021 | Solana   |      Yes       |      Yes       |
+| TON compiler & VM | Mar 2023 | TON      |      Yes       |      Yes       |
 
