@@ -5,7 +5,7 @@
 
 
 
-Here is a list of audits sec3 security service team ([website](https://www.sec3.dev/) | [twitter](https://twitter.com/sec3dev)) has conducted. 
+Here is a list of audits [the sec3 security service team](https://www.sec3.dev/) has conducted. 
 
 We make the audit reports available here once our clients have decided to publish the reports.
 
