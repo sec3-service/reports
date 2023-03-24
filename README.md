@@ -42,7 +42,7 @@ We make the audit reports available here once our clients have decided to publis
 | Metaplex gumdrop                         | May 2022 |  Solana  |                                                       |
 | Metaplex token metadata                  | Feb 2023 |  Solana  |                                                       |
 | Metaplex token metadata                  | Jul 2022 |  Solana  |                                                       |
-| Obligate poly notes                      | Feb 2023 | Polygon  |                                                       |
+| Obligate poly notes                      | Feb 2023 | Polygon  |       [📝](reports/sec3_poly-notes_report.pdf)        |
 | Socean streams                           | May 2022 |  Solana  |                                                       |
 | Parcl                                    | Dec 2022 |  Solana  |                                                       |
 | Parcl                                    | Jun 2022 |  Solana  |                                                       |
