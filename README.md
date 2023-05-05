@@ -25,6 +25,8 @@ We make the audit reports available here once our clients have decided to publis
 | Divvy.bet divvy house                    | Feb 2023 |  Solana  |                                                       |
 | Hedge vault                              | May 2022 |  Solana  |         [📝](reports/sec3_hedge_report.pdf)           |
 | Hedge vault                              | Jan 2022 |  Solana  |                                                       |
+| Helium fanout                            | Apr 2023 |  Solana  |                                                       |
+| Helium price oracle                      | Apr 2023 |  Solana  |                                                       |
 | Helium program library                   | Mar 2023 |  Solana  | [📝](reports/sec3_helium_program_library_report.pdf)  |
 | Helium program library front & back ends | Mar 2023 |   Web2   |                                                       |
 | Invariant protocol                       | May 2022 |  Solana  |       [📝](reports/sec3_invariant_report.pdf)         |
@@ -40,8 +42,10 @@ We make the audit reports available here once our clients have decided to publis
 | Metaplex candy machine v3                | Oct 2022 |  Solana  |                                                       |
 | Metaplex candy machine v2                | Oct 2022 |  Solana  |                                                       |
 | Metaplex gumdrop                         | May 2022 |  Solana  |                                                       |
+| Metaplex token metadata                  | Apr 2023 |  Solana  |                                                       |
 | Metaplex token metadata                  | Feb 2023 |  Solana  |                                                       |
 | Metaplex token metadata                  | Jul 2022 |  Solana  |                                                       |
+| Metaplex trifle                          | Apr 2023 |  Solana  |                                                       |
 | Obligate poly notes                      | Feb 2023 | Polygon  |       [📝](reports/sec3_poly-notes_report.pdf)        |
 | Socean streams                           | May 2022 |  Solana  |                                                       |
 | Parcl                                    | Dec 2022 |  Solana  |                                                       |
