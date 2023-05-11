@@ -21,6 +21,7 @@ We make the audit reports available here once our clients have decided to publis
 | Betdex monaco protocol                   | Mar 2023 |  Solana  |         [📝](reports/sec3_monaco_0.7.0.pdf)           |
 | Betdex monaco protocol                   | Feb 2023 |  Solana  |         [📝](reports/sec3_monaco_0.6.0.pdf)           |
 | Betdex monaco protocol                   | Nov 2022 |  Solana  |         [📝](reports/sec3_monaco_0.5.0.pdf)           |
+| CornerMarket                             | May 2023 |  EVM     |                                                       |
 | Crema clmmpool                           | Oct 2022 |  Solana  |                                                       |
 | Divvy.bet divvy house                    | Feb 2023 |  Solana  |                                                       |
 | Hedge vault                              | May 2022 |  Solana  |         [📝](reports/sec3_hedge_report.pdf)           |
@@ -46,7 +47,7 @@ We make the audit reports available here once our clients have decided to publis
 | Metaplex token metadata                  | Feb 2023 |  Solana  |                                                       |
 | Metaplex token metadata                  | Jul 2022 |  Solana  |                                                       |
 | Metaplex trifle                          | Apr 2023 |  Solana  |                                                       |
-| Obligate poly notes                      | Feb 2023 | Polygon  |       [📝](reports/sec3_poly-notes_report.pdf)        |
+| Obligate poly notes                      | Feb 2023 |  EVM     |       [📝](reports/sec3_poly-notes_report.pdf)        |
 | Socean streams                           | May 2022 |  Solana  |                                                       |
 | Parcl                                    | Dec 2022 |  Solana  |                                                       |
 | Parcl                                    | Jun 2022 |  Solana  |                                                       |
