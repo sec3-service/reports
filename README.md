@@ -16,7 +16,7 @@ We make the audit reports available here once our clients have decided to publis
 
 
 | Project                                  | Date     | Platform |                        Report                         |
-| :--------------------------------------- | -------: | -------: | :---------------------------------------------------: |
+| :--------------------------------------- | -------: | :------: | :---------------------------------------------------: |
 | Amihan genesis elixir                    | Apr 2022 |  Solana  |                                                       |
 | Betdex monaco protocol                   | Mar 2023 |  Solana  |         [📝](reports/sec3_monaco_0.7.0.pdf)           |
 | Betdex monaco protocol                   | Feb 2023 |  Solana  |         [📝](reports/sec3_monaco_0.6.0.pdf)           |
