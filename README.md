@@ -18,6 +18,8 @@ We make the audit reports available here once our clients have decided to publis
 | Project                                  | Date     | Platform |                        Report                         |
 | :--------------------------------------- | -------: | :------: | :---------------------------------------------------: |
 | Amihan genesis elixir                    | Apr 2022 |  Solana  |                                                       |
+| Betdex monaco protocol                   | May 2023 |  Solana  |         [📝](reports/sec3_monaco_0.9.0.pdf)           |
+| Betdex monaco protocol                   | Apr 2023 |  Solana  |         [📝](reports/sec3_monaco_0.8.0.pdf)           |
 | Betdex monaco protocol                   | Mar 2023 |  Solana  |         [📝](reports/sec3_monaco_0.7.0.pdf)           |
 | Betdex monaco protocol                   | Feb 2023 |  Solana  |         [📝](reports/sec3_monaco_0.6.0.pdf)           |
 | Betdex monaco protocol                   | Nov 2022 |  Solana  |         [📝](reports/sec3_monaco_0.5.0.pdf)           |
@@ -29,7 +31,7 @@ We make the audit reports available here once our clients have decided to publis
 | Helium fanout                            | Apr 2023 |  Solana  |                                                       |
 | Helium price oracle                      | Apr 2023 |  Solana  |                                                       |
 | Helium program library                   | Mar 2023 |  Solana  | [📝](reports/sec3_helium_program_library_report.pdf)  |
-| Helium program library front & back ends | Mar 2023 |   Web2   |                                                       |
+| Helium program library front & back ends | Mar 2023 |  Web2    |                                                       |
 | Invariant protocol                       | May 2022 |  Solana  |       [📝](reports/sec3_invariant_report.pdf)         |
 | Irreverent labs roosting                 | Dec 2022 |  Solana  |                                                       |
 | Jupiter swap aggregator                  | Aug 2022 |  Solana  |                                                       |
