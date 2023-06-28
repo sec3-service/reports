@@ -23,8 +23,8 @@ We make the audit reports available here once our clients have decided to publis
 | Betdex monaco protocol                   | Mar 2023 |  Solana  |         [📝](reports/sec3_monaco_0.7.0.pdf)           |
 | Betdex monaco protocol                   | Feb 2023 |  Solana  |         [📝](reports/sec3_monaco_0.6.0.pdf)           |
 | Betdex monaco protocol                   | Nov 2022 |  Solana  |         [📝](reports/sec3_monaco_0.5.0.pdf)           |
-| [Blueberry Staking](https://www.blueberry.garden/)            | Jun 2023 |  EVM     |                                                       |
-| [CornerMarket](https://docs.cornermarket.co/resources/audits) | May 2023 |  EVM     |     [📝](reports/sec3_cornerMarket_v15.pdf)           |
+| [Blueberry Staking](https://www.blueberry.garden/)             | Jun 2023 |  EVM     |                                                       |
+| [CornerMarket](https://docs.cornermarket.co/resources/audits)  | May 2023 |  EVM     |     [📝](reports/sec3_cornerMarket_v15.pdf)           |
 | Crema clmmpool                           | Oct 2022 |  Solana  |                                                       |
 | Divvy.bet divvy house                    | Feb 2023 |  Solana  |                                                       |
 | Hedge vault                              | May 2022 |  Solana  |         [📝](reports/sec3_hedge_report.pdf)           |
