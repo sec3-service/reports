@@ -33,10 +33,13 @@ We make the audit reports available here once our clients have decided to publis
 | Helium price oracle                      | Apr 2023 |  Solana  |                                                       |
 | Helium program library                   | Mar 2023 |  Solana  | [📝](reports/sec3_helium_program_library_report.pdf)  |
 | Helium program library front & back ends | Mar 2023 |  Web2    |                                                       |
+| Hubble Hyperplane                        | Jul 2023 |  Web2    |                                                       |
+| Hyperlane                                | Jul 2023 |  Solana  |                                                       |
 | Invariant protocol                       | May 2022 |  Solana  |       [📝](reports/sec3_invariant_report.pdf)         |
 | Irreverent labs roosting                 | Dec 2022 |  Solana  |                                                       |
 | Jupiter swap aggregator                  | Aug 2022 |  Solana  |                                                       |
 | Kamino yvaults                           | Sep 2022 |  Solana  |         [📝](reports/sec3_kamino_report.pdf)          |
+| Kuma Protocol                            | Jul 2023 |  Solana  |                                                       |
 | Magnum AI staking                        | Jun 2022 |  Solana  |                                                       |
 | Mean Dao                                 | Mar 2022 |  Solana  |                                                       |
 | Metaplex auction house                   | Oct 2022 |  Solana  |                                                       |
@@ -50,18 +53,21 @@ We make the audit reports available here once our clients have decided to publis
 | Metaplex token metadata                  | Feb 2023 |  Solana  |                                                       |
 | Metaplex token metadata                  | Jul 2022 |  Solana  |                                                       |
 | Metaplex trifle                          | Apr 2023 |  Solana  |                                                       |
+| MynaSwap                                 | Jul 2023 |  EVM     |                                                       |
 | Obligate poly notes                      | Feb 2023 |  EVM     |       [📝](reports/sec3_poly-notes_report.pdf)        |
 | Socean streams                           | May 2022 |  Solana  |                                                       |
 | Parcl                                    | Dec 2022 |  Solana  |                                                       |
 | Parcl                                    | Jun 2022 |  Solana  |                                                       |
 | Parcl                                    | Mar 2022 |  Solana  |                                                       |
 | Star Atlas marketplace                   | Jun 2022 |  Solana  |                                                       |
+| Socean Unstake                           | Jul 2023 |  Solana  |                                                       |
 | Unique Delegation Manager                | Feb 2023 |  Solana  |          [📝](reports/sec3_udm_report.pdf)            |
 | UXD protocol                             | Dec 2022 |  Solana  |                                                       |
 | UXD protocol                             | Nov 2022 |  Solana  |                                                       |
 | UXD protocol                             | Oct 2022 |  Solana  |                                                       |
-| UXD protocol                             | Jun 2022 |  Solana  |           [📝](reports/sec3_uxd_3.1.0.pdf)            |
 | UXD protocol                             | Mar 2022 |  Solana  |           [📝](reports/sec3_uxd_3.0.1.pdf)            |
+| UXD protocol                             | Jun 2022 |  Solana  |           [📝](reports/sec3_uxd_3.1.0.pdf)            |
+| UXD protocol                             | Jun 2023 |  Solana  |                                                       |
 
 
 
