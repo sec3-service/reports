@@ -82,5 +82,5 @@ We make the audit reports available here once our clients have decided to publis
 | :---------------- | -------: | -------: | :------------: | :------------: |
 | Firedancer        | Feb 2023 | Solana   |                |                |
 | Jet protocol      | Oct 2021 | Solana   |      Yes       |      Yes       |
-| TON compiler & VM ([funC 1](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202305-update), [funC 2](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202306-update)),  | Mar 2023 | TON      |      Yes       |      Yes       |
+| TON compiler & VM ([funC 1](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202304-update), [funC 2](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202305-update)),  | Mar 2023 | TON      |      Yes       |      Yes       |
 
