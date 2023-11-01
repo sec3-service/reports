@@ -25,6 +25,8 @@ We make the audit reports available here once our clients have decided to publis
 | Betdex monaco protocol                   | Nov 2022 |  Solana  |         [📝](reports/sec3_monaco_0.5.0.pdf)           |
 | [Blueberry Staking](https://www.blueberry.garden/)             | Jun 2023 |  EVM     |                                                       |
 | [CornerMarket](https://docs.cornermarket.co/resources/audits)  | May 2023 |  EVM     |     [📝](reports/sec3_cornerMarket_v15.pdf)           |
+| [CaviarNine Order Book](https://www.caviarnine.com/) | Oct 2023 | Radix, Scrypto | [📝](reports/sec3_caviar_orderbook_20231025.pdf) |
+| [CaviarNine LSU Pool](https://www.caviarnine.com/) | Oct 2023 | Radix, Scrypto |  |
 | Crema clmmpool                           | Oct 2022 |  Solana  |                                                       |
 | Divvy.bet divvy house                    | Feb 2023 |  Solana  |                                                       |
 | Hedge vault                              | May 2022 |  Solana  |         [📝](reports/sec3_hedge_report.pdf)           |
