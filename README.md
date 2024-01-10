@@ -7,7 +7,7 @@
 
 Here is a list of audits [the sec3 security service team](https://www.sec3.dev/) has conducted. 
 
-We make the audit reports available here once our clients have decided to publish the reports.
+We make the audit reports available here once our clients decide to publish them.
 
 
 
@@ -17,7 +17,10 @@ We make the audit reports available here once our clients have decided to publis
 
 | Project                                                       |     Date | Platform       | Report                                                |
 | :------------------------------------------------------------ | -------: | :------------- | :---------------------------------------------------: |
+| A41 staking fee contracts                                     | Nov 2023 | EVM         |                                                       |
 | Amihan genesis elixir                                         | Apr 2022 | Solana         |                                                       |
+| Barista                                                       | Nov 2023 | EVM            |                                                       |
+| Betdex monaco protocol                                        | Dec 2023 | Solana         | [📝](reports/sec3_monaco_0.13.0.pdf)                  |
 | Betdex monaco protocol                                        | May 2023 | Solana         | [📝](reports/sec3_monaco_0.9.0.pdf)                  |
 | Betdex monaco protocol                                        | Apr 2023 | Solana         | [📝](reports/sec3_monaco_0.8.0.pdf)                  |
 | Betdex monaco protocol                                        | Mar 2023 | Solana         | [📝](reports/sec3_monaco_0.7.0.pdf)                  |
@@ -39,14 +42,18 @@ We make the audit reports available here once our clients have decided to publis
 | Hyperlane                                                     | Jul 2023 | Solana         |                                                       |
 | Invariant protocol                                            | May 2022 | Solana         | [📝](reports/sec3_invariant_report.pdf)              |
 | Irreverent labs roosting                                      | Dec 2022 | Solana         |                                                       |
+| Jupiter Perpetuals                                            | Dec 2023 | Solana         |                                                       |
 | Jupiter swap aggregator                                       | Aug 2022 | Solana         |                                                       |
 | Kamino yvaults                                                | Sep 2022 | Solana         | [📝](reports/sec3_kamino_report.pdf)                 |
 | Kuma Protocol                                                 | Jul 2023 | Solana         |                                                       |
 | Magnum AI staking                                             | Jun 2022 | Solana         |                                                       |
+| Marginfi v2                                                   | Nov 2023 | Solana         |                                                       |
+| Marinade                                                      | Nov 2023 | Solana         |                                                       |
 | Mean Dao                                                      | Mar 2022 | Solana         |                                                       |
 | Metaplex auction house                                        | Oct 2022 | Solana         |                                                       |
 | Metaplex auction house                                        | Jun 2022 | Solana         |                                                       |
 | Metaplex bubblegum                                            | Nov 2022 | Solana         |                                                       |
+| Metaplex bubblegum                                            | Nov 2023 | Solana         |                                                       |
 | Metaplex candy guard                                          | Nov 2022 | Solana         |                                                       |
 | Metaplex candy machine v3                                     | Oct 2022 | Solana         |                                                       |
 | Metaplex candy machine v2                                     | Oct 2022 | Solana         |                                                       |
