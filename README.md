@@ -40,12 +40,13 @@ We make the audit reports available here once our clients decide to publish them
 | Helium program library front & back ends                      | Mar 2023 | Web2           |                                                       |
 | Hubble Hyperplane                                             | Jul 2023 | Solana         |                                                       |
 | Hyperlane                                                     | Jul 2023 | Solana         |                                                       |
-| Invariant protocol                                            | May 2022 | Solana         | [📝](reports/sec3_invariant_report.pdf)              |
+| Invariant protocol                                            | May 2022 | Solana         | [📝](reports/sec3_invariant_report.pdf)               |
 | Irreverent labs roosting                                      | Dec 2022 | Solana         |                                                       |
 | Jupiter Perpetuals                                            | Dec 2023 | Solana         |                                                       |
 | Jupiter swap aggregator                                       | Aug 2022 | Solana         |                                                       |
-| Kamino yvaults                                                | Sep 2022 | Solana         | [📝](reports/sec3_kamino_report.pdf)                 |
+| Kamino yvaults                                                | Sep 2022 | Solana         | [📝](reports/sec3_kamino_report.pdf)                  |
 | Kuma Protocol                                                 | Jul 2023 | Solana         |                                                       |
+| Lavarage                                                      | Jul 2024 | Solana         | [📝](reports/sec3_lavarage_final_report.pdf)          |
 | Magnum AI staking                                             | Jun 2022 | Solana         |                                                       |
 | Marginfi v2                                                   | Nov 2023 | Solana         |                                                       |
 | Marinade                                                      | Nov 2023 | Solana         |                                                       |
