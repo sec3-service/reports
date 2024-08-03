@@ -31,6 +31,7 @@ We make the audit reports available here once our clients decide to publish them
 | [CaviarNine LSU Pool](https://www.caviarnine.com/)            | Oct 2023 | Radix, Scrypto |                                                       |
 | [CornerMarket](https://docs.cornermarket.co/resources/audits) | May 2023 | EVM            | [📝](reports/sec3_cornerMarket_v15.pdf)              |
 | Crema clmmpool                                                | Oct 2022 | Solana         |                                                       |
+| Defenders frontend & smart contracts                          | Mar 2024 | Solana, Web2   | [📝](reports/sec3_defenders_report_final.pdf)              |
 | Divvy.bet divvy house                                         | Feb 2023 | Solana         |                                                       |
 | Hedge vault                                                   | May 2022 | Solana         | [📝](reports/sec3_hedge_report.pdf)                  |
 | Hedge vault                                                   | Jan 2022 | Solana         |                                                       |
