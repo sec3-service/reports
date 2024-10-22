@@ -40,7 +40,7 @@ We make the audit reports available here once our clients decide to publish them
 | Helium program library                                        | Mar 2023 | Solana         | [📝](reports/sec3_helium_program_library_report.pdf) |
 | Helium program library front & back ends                      | Mar 2023 | Web2           |                                                       |
 | Hubble Hyperplane                                             | Jul 2023 | Solana         |                                                       |
-| Hyperlane                                                     | Jul 2023 | Solana         |                                                       |
+| Hyperlane                                                     | Jul 2023 | Solana         | [📝](reports/sec3_hyperlane-sealevel.pdf)                                                      |
 | Invariant protocol                                            | May 2022 | Solana         | [📝](reports/sec3_invariant_report.pdf)               |
 | Irreverent labs roosting                                      | Dec 2022 | Solana         |                                                       |
 | Jupiter Perpetuals                                            | Dec 2023 | Solana         |                                                       |
