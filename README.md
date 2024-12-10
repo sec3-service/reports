@@ -4,7 +4,7 @@
 
 ## Audit Reports
 
-Below is a non-exhaustive list of audits the [Sec3](https://www.sec3.dev/) security service team has conducted. We make the audit reports available here once our clients decide to publish them.
+Below is a non-exhaustive list of audits the [Sec3](https://www.sec3.dev/) security service team has conducted. We only make the audit reports available here once our clients decide to publish them.
 
 ### 2024
 
@@ -145,6 +145,6 @@ Below is a non-exhaustive list of audits the [Sec3](https://www.sec3.dev/) secur
 
 | Project | Date | Platform | Bounty Program | Bounty Awarded |
 | :--- | :--- | :--- | :---: | :---: |
-| Firedancer | Feb 2023 | Solana | | |
-| Jet Protocol | Oct 2021 | Solana | Yes | Yes |
-| TON Compiler & VM ([funC 1](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202304-update), [funC 2](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202305-update)) | Mar 2023 | TON | Yes | Yes |
+| [Firedancer](https://github.com/firedancer-io/firedancer) | Feb 2023 | Solana | | |
+| [Jet Protocol](https://www.jetprotocol.io/) | Oct 2021 | Solana | Yes | Yes |
+| [TON](https://ton.org/) Compiler & VM ([funC 1](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202304-update), [funC 2](https://github.com/ton-blockchain/ton/blob/master/Changelog.md#202305-update)) | Mar 2023 | TON | Yes | Yes |
