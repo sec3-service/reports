@@ -21,9 +21,9 @@ We make the audit reports available here once our clients decide to publish them
 <table>
 <thead>
 <tr>
-<th align="left" style="width: 60%;">Project</th>
-<th align="left">Date</th>
-<th align="left">Platform/Type</th>
+<th align="left" style="width: 480px;">Project</th>
+<th align="left" style="width: 160px;">Date</th>
+<th align="left" style="width: 160px;">Platform/Type</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -330,9 +330,9 @@ We make the audit reports available here once our clients decide to publish them
 <table>
 <thead>
 <tr>
-<th align="left" style="width: 60%;">Project</th>
-<th align="left">Date</th>
-<th align="left">Platform/Type</th>
+<th align="left" style="width: 480px;">Project</th>
+<th align="left" style="width: 160px;">Date</th>
+<th align="left" style="width: 160px;">Platform/Type</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -518,9 +518,9 @@ We make the audit reports available here once our clients decide to publish them
 <table>
 <thead>
 <tr>
-<th align="left" style="width: 60%;">Project</th>
-<th align="left">Date</th>
-<th align="left">Platform/Type</th>
+<th align="left" style="width: 480px;">Project</th>
+<th align="left" style="width: 160px;">Date</th>
+<th align="left" style="width: 160px;">Platform/Type</th>
 </tr>
 </thead>
 <tbody><tr>
