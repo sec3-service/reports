@@ -21,7 +21,7 @@ We make the audit reports available here once our clients decide to publish them
 
 | Project <img width="450" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAQAAAAGVCQYAAAADElEQVR42mNkoDIAAACiAAIfFnU0AAAAAElFTkSuQmCC"> | Date     | Platform/Type |
 | :------------------------------------------------------------------------------ | :------- | :--------------- |
-| Pyth Express Relay Solana (incremental)                                         | Dec 2024 | Solidity         |
+| Pyth Express Relay Solana (incremental)                                         | Dec 2024 | Solana           |
 | Sei Cryptography Library                                                        | Dec 2024 | Sei              |
 | LayerZero READ                                                                  | Nov 2024 | Solidity         |
 | [LFJ (prev. Trader Joe) Token Mill](reports/sec3_lfj_token_mill_final.pdf)      | Nov 2024 | Solana           |
