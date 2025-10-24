@@ -13,72 +13,79 @@ We make the audit reports available here once our clients decide to publish them
 
 <br/>
 
+### 2025
 
+| Project <img width="450" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAQAAAAGVCQYAAAADElEQVR42mNkoDIAAACiAAIfFnU0AAAAAElFTkSuQmCC"> | Date     | Platform/Type |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :------------ |
+| [Kamino Lending Program](reports/sec3_kamino_lend.pdf)                                                                                                        | Feb 2025 | Solana        |
+| [Kamino Lending Vault](reports/sec3_kamino_vault.pdf)                                                                                                         | Feb 2025 | Solana        |
+| [Kamino Limit Orders](reports/sec3_kamino_limo.pdf)                                                                                                           | Jan 2025 | Solana        |
 
 
 ### 2024
 
 
-| Project <img width="450" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAQAAAAGVCQYAAAADElEQVR42mNkoDIAAACiAAIfFnU0AAAAAElFTkSuQmCC"> | Date     | Platform/Type |
-| :------------------------------------------------------------------------------ | :------- | :--------------- |
-| Pyth Express Relay Solana (incremental)                                         | Dec 2024 | Solana           |
-| Sei Cryptography Library                                                        | Dec 2024 | Sei              |
-| LayerZero READ                                                                  | Nov 2024 | Solidity         |
-| [LFJ (prev. Trader Joe) Token Mill](reports/sec3_lfj_token_mill_final.pdf)      | Nov 2024 | Solana           |
-| Metaplex Staking and Rewards                                                    | Nov 2024 | Solana           |
-| Realms Bonk Plugin                                                              | Nov 2024 | Solana           |
-| Sky Ecosystem USDS NTT and Token Solana Deployment                              | Nov 2024 | Solana, Solidity |
-| Streamflow Staking                                                              | Nov 2024 | Solana           |
-| Monaco Protocol v0.15.1                                                         | Oct 2024 | Solana           |
-| Monaco Protocol v0.15.2                                                         | Oct 2024 | Solana           |
-| Sei Chain ERC-1155 and CW-1155                                                  | Oct 2024 | Sei              |
-| Pyth Express Relay (Solana)                                                     | Oct 2024 | Solana           |
-| Realms Token Haver and Voter                                                    | Oct 2024 | Solana           |
-| UXD Program (incremental)                                                       | Oct 2024 | Solana           |
-| UXD Redemption                                                                  | Oct 2024 | Solana           |
-| Wormhole Swap Layer                                                             | Oct 2024 | Solana           |
-| Manoco Protocol v0.15.0                                                         | Sep 2024 | Solana           |
-| Pyth Community Integrity Pool                                                   | Sep 2024 | Solana           |
-| Pump AMM                                                                        | Sep 2024 | Solana           |
-| Sei Chain - EVM Sei Interoperability                                            | Sep 2024 | Sei              |
-| Surge Scrypto                                                                   | Sep 2024 | Scrypto          |
-| Wormhole Fast Transfer (incremental)                                            | Sep 2024 | Solana           |
-| [Carrot Protocol](reports/sec3_carrot_final.pdf)                                | Aug 2024 | Solana           |
-| Jupiter Locker                                                                  | Aug 2024 | Solana           |
-| Leveller Contracts                                                              | Aug 2024 | Solidity         |
-| Sei Chain (incremental)                                                         | Aug 2024 | Sei              |
-| Vermillion Buttonswap V2                                                        | Aug 2024 | Solidity         |
-| Zelo BSL Liquid Staking (incremental)                                           | Aug 2024 | Solana           |
-| Bridgesplit RWA Token Program                                                   | Jul 2024 | Solana           |
-| [Lavarage](reports/sec3_lavarage_final_report.pdf)                              | Jul 2024 | Solana           |
-| Mayan MCTP                                                                      | Jul 2024 | Solidity         |
-| Mayan Swift                                                                     | Jul 2024 | Solidity, Solana |
-| Sei Chain (incremental)                                                         | Jul 2024 | Sei              |
-| Helium Modular Governance PR                                                    | Jun 2024 | Solana           |
-| Stabble Smart Vault                                                             | Jun 2024 | Solana           |
-| Titan Blaze DiamondHand                                                         | Jun 2024 | Solidity         |
-| Wormhole Example Liquidity Layer                                                | Jun 2024 | Solana, Solidity |
-| Helium Program Library PRs                                                      | May 2024 | Solana           |
-| Lulo                                                                            | May 2024 | Solana           |
-| Monaco Protocol v0.14.2                                                         | May 2024 | Solana           |
-| Nova Program Library                                                            | May 2024 | Solana           |
-| Stabble AMM                                                                     | May 2024 | Solana           |
-| Titan Blaze                                                                     | May 2024 | Solidity         |
-| YBX                                                                             | May 2024 | Solana           |
-| Monaco Protocol v0.14.0                                                         | Apr 2024 | Solana           |
-| Monaco Protocol v0.14.1                                                         | Apr 2024 | Solana           |
-| PreMarket Contracts                                                             | Apr 2024 | Solidity         |
-| Zelo                                                                            | Apr 2024 | Solana           |
-| Bridgesplit RWA Token Program                                                   | Mar 2024 | Solana           |
-| [Defenders frontend & smart contracts](reports/sec3_defenders_report_final.pdf) | Mar 2024 | Solana, Web2     |
-| DeMux                                                                           | Mar 2024 | Solana           |
-| Meteora DLMM                                                                    | Feb 2024 | Solana           |
-| Sanctum S                                                                       | Feb 2024 | Solana           |
-| Zeebit Core                                                                     | Feb 2024 | Solana           |
-| Jupiter Perpetual Exchange                                                      | Jan 2024 | Solana           |
-| Kuma Escrow                                                                     | Jan 2024 | Solana           |
-| Metaplex Inscriptions                                                           | Jan 2024 | Solana           |
-| MINU Token Contract                                                             | Jan 2024 | Solidity         |
+| Project <img width="450" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAQAAAAGVCQYAAAADElEQVR42mNkoDIAAACiAAIfFnU0AAAAAElFTkSuQmCC"> | Date     | Platform/Type    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :--------------- |
+| [Kamino Scope](reports/sec3_kamino_scope.pdf)                                                                                                                 | Dec 2024 | Solana           |
+| Pyth Express Relay Solana (incremental)                                                                                                                       | Dec 2024 | Solana           |
+| Sei Cryptography Library                                                                                                                                      | Dec 2024 | Sei              |
+| LayerZero READ                                                                                                                                                | Nov 2024 | Solidity         |
+| [LFJ (prev. Trader Joe) Token Mill](reports/sec3_lfj_token_mill_final.pdf)                                                                                    | Nov 2024 | Solana           |
+| Metaplex Staking and Rewards                                                                                                                                  | Nov 2024 | Solana           |
+| Realms Bonk Plugin                                                                                                                                            | Nov 2024 | Solana           |
+| Sky Ecosystem USDS NTT and Token Solana Deployment                                                                                                            | Nov 2024 | Solana, Solidity |
+| Streamflow Staking                                                                                                                                            | Nov 2024 | Solana           |
+| Monaco Protocol v0.15.1                                                                                                                                       | Oct 2024 | Solana           |
+| Monaco Protocol v0.15.2                                                                                                                                       | Oct 2024 | Solana           |
+| Sei Chain ERC-1155 and CW-1155                                                                                                                                | Oct 2024 | Sei              |
+| Pyth Express Relay (Solana)                                                                                                                                   | Oct 2024 | Solana           |
+| Realms Token Haver and Voter                                                                                                                                  | Oct 2024 | Solana           |
+| UXD Program (incremental)                                                                                                                                     | Oct 2024 | Solana           |
+| UXD Redemption                                                                                                                                                | Oct 2024 | Solana           |
+| Wormhole Swap Layer                                                                                                                                           | Oct 2024 | Solana           |
+| Manoco Protocol v0.15.0                                                                                                                                       | Sep 2024 | Solana           |
+| Pyth Community Integrity Pool                                                                                                                                 | Sep 2024 | Solana           |
+| Pump AMM                                                                                                                                                      | Sep 2024 | Solana           |
+| Sei Chain - EVM Sei Interoperability                                                                                                                          | Sep 2024 | Sei              |
+| Surge Scrypto                                                                                                                                                 | Sep 2024 | Scrypto          |
+| Wormhole Fast Transfer (incremental)                                                                                                                          | Sep 2024 | Solana           |
+| [Carrot Protocol](reports/sec3_carrot_final.pdf)                                                                                                              | Aug 2024 | Solana           |
+| Jupiter Locker                                                                                                                                                | Aug 2024 | Solana           |
+| Leveller Contracts                                                                                                                                            | Aug 2024 | Solidity         |
+| Sei Chain (incremental)                                                                                                                                       | Aug 2024 | Sei              |
+| Vermillion Buttonswap V2                                                                                                                                      | Aug 2024 | Solidity         |
+| Zelo BSL Liquid Staking (incremental)                                                                                                                         | Aug 2024 | Solana           |
+| Bridgesplit RWA Token Program                                                                                                                                 | Jul 2024 | Solana           |
+| [Lavarage](reports/sec3_lavarage_final_report.pdf)                                                                                                            | Jul 2024 | Solana           |
+| Mayan MCTP                                                                                                                                                    | Jul 2024 | Solidity         |
+| Mayan Swift                                                                                                                                                   | Jul 2024 | Solidity, Solana |
+| Sei Chain (incremental)                                                                                                                                       | Jul 2024 | Sei              |
+| Helium Modular Governance PR                                                                                                                                  | Jun 2024 | Solana           |
+| Stabble Smart Vault                                                                                                                                           | Jun 2024 | Solana           |
+| Titan Blaze DiamondHand                                                                                                                                       | Jun 2024 | Solidity         |
+| Wormhole Example Liquidity Layer                                                                                                                              | Jun 2024 | Solana, Solidity |
+| Helium Program Library PRs                                                                                                                                    | May 2024 | Solana           |
+| Lulo                                                                                                                                                          | May 2024 | Solana           |
+| Monaco Protocol v0.14.2                                                                                                                                       | May 2024 | Solana           |
+| Nova Program Library                                                                                                                                          | May 2024 | Solana           |
+| Stabble AMM                                                                                                                                                   | May 2024 | Solana           |
+| Titan Blaze                                                                                                                                                   | May 2024 | Solidity         |
+| YBX                                                                                                                                                           | May 2024 | Solana           |
+| Monaco Protocol v0.14.0                                                                                                                                       | Apr 2024 | Solana           |
+| Monaco Protocol v0.14.1                                                                                                                                       | Apr 2024 | Solana           |
+| PreMarket Contracts                                                                                                                                           | Apr 2024 | Solidity         |
+| Zelo                                                                                                                                                          | Apr 2024 | Solana           |
+| Bridgesplit RWA Token Program                                                                                                                                 | Mar 2024 | Solana           |
+| [Defenders frontend & smart contracts](reports/sec3_defenders_report_final.pdf)                                                                               | Mar 2024 | Solana, Web2     |
+| DeMux                                                                                                                                                         | Mar 2024 | Solana           |
+| Meteora DLMM                                                                                                                                                  | Feb 2024 | Solana           |
+| Sanctum S                                                                                                                                                     | Feb 2024 | Solana           |
+| Zeebit Core                                                                                                                                                   | Feb 2024 | Solana           |
+| Jupiter Perpetual Exchange                                                                                                                                    | Jan 2024 | Solana           |
+| Kuma Escrow                                                                                                                                                   | Jan 2024 | Solana           |
+| Metaplex Inscriptions                                                                                                                                         | Jan 2024 | Solana           |
+| MINU Token Contract                                                                                                                                           | Jan 2024 | Solidity         |
 
 
 
