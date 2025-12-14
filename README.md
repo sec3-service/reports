@@ -17,6 +17,7 @@ We make the audit reports available here once our clients decide to publish them
 
 | Project <img width="450" height="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAQAAAAGVCQYAAAADElEQVR42mNkoDIAAACiAAIfFnU0AAAAAElFTkSuQmCC"> | Date     | Platform/Type |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :------------ |
+| [Symphony Aggregator V1](reports/sec3_symphony_aggregator_v1_report_final.pdf)                                                                                | Dec 2025 | Solidity      |
 | [Kamino Lending Program](reports/sec3_kamino_lend.pdf)                                                                                                        | Feb 2025 | Solana        |
 | [Kamino Lending Vault](reports/sec3_kamino_vault.pdf)                                                                                                         | Feb 2025 | Solana        |
 | [Kamino Limit Orders](reports/sec3_kamino_limo.pdf)                                                                                                           | Jan 2025 | Solana        |
