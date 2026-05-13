@@ -19,6 +19,7 @@ We make the audit reports available here once our clients decide to publish them
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :------------ |
 | [Huma Vault](reports/sec3_huma_vault.pdf)                                                                                                                     | Jan 2026 | Solana        |
 | [Huma Vault Incremental](reports/sec3_huma_vault_incremental_20260131.pdf)                                                                                    | Jan 2026 | Solana        |
+| [Huma Permissionless Incremental](reports/sec3_huma_permissionless_incremental_20260512.pdf)                                                                                    | May 2026 | Solana        |
 
 
 ### 2025
